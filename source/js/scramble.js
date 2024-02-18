@@ -2,7 +2,7 @@ var scramble = ""
 var Possible = ["F", "R", "U", "B", "L", "D"]
 var Modifiers = ["", "'", "2"]
 var i = 1
-for (i in 20);
-  var scramble = scramble + " " + Math.random(Possible) + Math.random(Modifiers)
+while (i != 20);
+  var scramble = scramble + " " + Possible[Math.floor(Math.random() * Possible.length)] + Modifiers[Math.floor(Math.random() * Modifiers.length)]
   i = i + 1
 console.log(scramble)
