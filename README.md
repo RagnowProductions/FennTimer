@@ -5,7 +5,8 @@ FennTimer is a free speedcubing timer for the web, and Fenn OS.
 - Scramble Generator
 - Time Saver
 - Ao5 Calculator
-<br><br>Now, these may sound basic, but listen up:
+<br>Now, these may sound basic, but listen up:
+
 - Multicube Relays
 - Total Time Spent calculator
 - PB Checker
